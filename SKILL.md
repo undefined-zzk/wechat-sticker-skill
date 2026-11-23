@@ -1,5 +1,5 @@
 ---
-name: wechat-sticker-pack
+name: wechat-sticker-skill
 description: undefined-zzk 的个人微信表情创作 Skill。根据一句需求和一张用户有权使用的角色参考图，制作动态或静态微信表情、封面、聊天图标、详情页横幅和赞赏素材，检查并整理投稿包。用户提到制作表情包、GIF 表情、静态表情或微信投稿素材时使用；不负责特效、账户注册或自动投稿。
 metadata:
   author: undefined-zzk
