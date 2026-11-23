@@ -1,6 +1,6 @@
-# wechat-sticker-pack Skill
+# undefined-zzk 的 wechat-sticker-pack Skill
 
-根据用户需求和用户有权使用的角色参考图，制作微信表情专辑素材。支持动态 GIF 和静态 PNG 表情，默认先生成第 1 张预览，用户确认后再补齐整套。
+这是 `undefined-zzk` 维护的个人微信表情创作 Skill。根据用户需求和用户有权使用的角色参考图，制作动态或静态微信表情及投稿素材。支持动态 GIF 和静态 PNG 表情，默认先生成第 1 张预览，用户确认后再补齐整套。
 
 ## 能力
 
@@ -27,6 +27,12 @@ python3 scripts/sticker.py check <工作目录>
 ```
 
 `SKILL.md` 是完整工作流程；微信尺寸和大小规则见 `references/wechat-rules.md`。
+
+项目地址：<https://github.com/undefined-zzk/wechat-sticker-skill>
+
+## 作者
+
+维护者：`undefined-zzk`
 
 ## 许可
 
